@@ -14,3 +14,8 @@ Data types (in order of increasing compelexity):
   Class (@Function)
 ```
 * The `@` symbols refer to literals constructed with `@` before the literal of the named type.
+
+Here are the various literals for each data type:
+
+## Null
+`null`
