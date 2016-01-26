@@ -51,3 +51,7 @@ Note: New lines are not allowed in strings directly; use the escape sequence `\n
 
 ##### Class
 `@{ codeHere }`
+
+### Built-in Library
+Please note that the built-in library is different from the standard library. The built-in library is always available - you don't have to import anything to use it.
+The standard library contains more human-usable functions, and is often easier to use, but requires an `import` call (it is written via the built-in library).
