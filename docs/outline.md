@@ -1,5 +1,6 @@
 # QuickScript - Outline
 
+### Data types
 Data types (in order of increasing compelexity):
 ```
   Null
@@ -14,6 +15,8 @@ Data types (in order of increasing compelexity):
   Class (@Function)
 ```
 * The `@` symbols refer to literals constructed with `@` before the literal of the named type.
+
+#### Data type literals
 
 Here are the various literals/example literals for each data type:
 
