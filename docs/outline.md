@@ -17,5 +17,5 @@ Data types (in order of increasing compelexity):
 
 Here are the various literals for each data type:
 
-## Null
+###### Null
 `null`
