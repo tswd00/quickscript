@@ -1,6 +1,7 @@
-=== QuickScript - Outline ===
+# QuickScript - Outline
 
 Data types (in order of increasing compelexity):
+```
   Null
   Boolean
   Number
@@ -11,4 +12,5 @@ Data types (in order of increasing compelexity):
   Context (@Object)
   Function
   Class (@Function)
-* The @ symbols refer to literals constructed with @ before the literal of the named type.
+```
+* The `@` symbols refer to literals constructed with `@` before the literal of the named type.
