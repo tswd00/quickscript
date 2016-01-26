@@ -29,6 +29,13 @@ E.g.:  `-1.38` or `1.05e3` are fine, but `13,423` and `569.111.394 0` are not.
 
 ##### String
 `"[text]"` or `'[text]'`
+Note: New lines are not allowed in strings directly; use the escape sequence `\n` instead.
 
 ##### RegExp
 `@"[RegExp]"` or `@'[RegExp]'`
+
+##### Array
+`[element0, element1, ...]`
+
+##### Object
+`[key1=value1, key3=value3, key2=value2, ...]` (empty: `[=]`)
