@@ -1,7 +1,8 @@
 # QuickScript - Outline
 
+<!--- TODO: Add better type tree. --->
 ### Data types
-Data types (in order of increasing compelexity):
+Data types:
 ```
   Null
   Boolean
