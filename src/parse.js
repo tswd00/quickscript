@@ -1,7 +1,7 @@
 /**
  * /src/splitter.js
  * Copyright © 2016 TSWD00.
- * This file contains part of the code for the QS parser. This file splits the code into "parse units."
+ * This file contains the code for the QS parser.
  */
 
 // Call an anonymous function with window inputted as context so that variables are not stored in window by default
