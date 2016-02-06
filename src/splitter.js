@@ -13,7 +13,7 @@
     
     var originalCode = code; // Store the original code in case needed later
     
-    code = code.split(/([^a-z]+)/gi); // Split the code by characters other than a-z
+    code = code.split(/(\s+|[^a-z]+)/gi); // Split the code by characters other than a-z
     
     return code;
   };
